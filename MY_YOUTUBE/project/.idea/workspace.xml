@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97e7270b-ffb7-486f-bded-7250d8179591" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UYdz3mpVJN494cG2AhKAlAbBXN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Django Example App - YouTube Search With YouTube Data API/django_youtube_search/youtube_search" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97e7270b-ffb7-486f-bded-7250d8179591" name="Default Changelist" comment="" />
+      <created>1575537722414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575537722414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="140" width="424" height="485" key="FileChooserDialogImpl" timestamp="1575543065968">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state x="466" y="140" width="424" height="485" key="FileChooserDialogImpl/0.27.1366.715@0.27.1366.715" timestamp="1575543065968" />
+    <state x="172" y="27" key="SettingsEditor" timestamp="1575538449335">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state x="172" y="27" key="SettingsEditor/0.27.1366.715@0.27.1366.715" timestamp="1575538449335" />
+    <state x="343" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1575538403046">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state x="343" y="212" key="com.intellij.ide.util.TipDialog/0.27.1366.715@0.27.1366.715" timestamp="1575538403046" />
+  </component>
+</project>
